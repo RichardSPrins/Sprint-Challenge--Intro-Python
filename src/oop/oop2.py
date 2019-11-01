@@ -41,5 +41,5 @@ vehicles = [
 # TODO
 
 for i in vehicles:
-    i.drive()
-    # print(i.num_wheels)
+    print(i.drive())
+    print(i.num_wheels)
